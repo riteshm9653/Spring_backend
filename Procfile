@@ -1,1 +1,1 @@
-web: java -jar target/group-project-0.0.1-SNAPSHOT.jar
+web: java -jar target/group-project-0.0.1-SNAPSHOT.war
